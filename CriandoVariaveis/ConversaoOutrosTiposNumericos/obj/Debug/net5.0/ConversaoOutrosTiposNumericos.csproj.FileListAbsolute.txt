@@ -1,0 +1,16 @@
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\bin\Debug\net5.0\ConversaoOutrosTiposNumericos.exe
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\bin\Debug\net5.0\ConversaoOutrosTiposNumericos.deps.json
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\bin\Debug\net5.0\ConversaoOutrosTiposNumericos.runtimeconfig.json
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\bin\Debug\net5.0\ConversaoOutrosTiposNumericos.runtimeconfig.dev.json
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\bin\Debug\net5.0\ConversaoOutrosTiposNumericos.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\bin\Debug\net5.0\ref\ConversaoOutrosTiposNumericos.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\bin\Debug\net5.0\ConversaoOutrosTiposNumericos.pdb
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\obj\Debug\net5.0\ConversaoOutrosTiposNumericos.csproj.AssemblyReference.cache
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\obj\Debug\net5.0\ConversaoOutrosTiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\obj\Debug\net5.0\ConversaoOutrosTiposNumericos.AssemblyInfoInputs.cache
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\obj\Debug\net5.0\ConversaoOutrosTiposNumericos.AssemblyInfo.cs
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\obj\Debug\net5.0\ConversaoOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\obj\Debug\net5.0\ConversaoOutrosTiposNumericos.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\obj\Debug\net5.0\ref\ConversaoOutrosTiposNumericos.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\obj\Debug\net5.0\ConversaoOutrosTiposNumericos.pdb
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\ConversaoOutrosTiposNumericos\obj\Debug\net5.0\ConversaoOutrosTiposNumericos.genruntimeconfig.cache

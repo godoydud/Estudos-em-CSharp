@@ -1,0 +1,16 @@
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\bin\Debug\net5.0\Codigos.exe
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\bin\Debug\net5.0\Codigos.deps.json
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\bin\Debug\net5.0\Codigos.runtimeconfig.json
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\bin\Debug\net5.0\Codigos.runtimeconfig.dev.json
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\bin\Debug\net5.0\Codigos.dll
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\bin\Debug\net5.0\ref\Codigos.dll
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\bin\Debug\net5.0\Codigos.pdb
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\obj\Debug\net5.0\Codigos.csproj.AssemblyReference.cache
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\obj\Debug\net5.0\Codigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\obj\Debug\net5.0\Codigos.AssemblyInfoInputs.cache
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\obj\Debug\net5.0\Codigos.AssemblyInfo.cs
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\obj\Debug\net5.0\Codigos.csproj.CoreCompileInputs.cache
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\obj\Debug\net5.0\Codigos.dll
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\obj\Debug\net5.0\ref\Codigos.dll
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\obj\Debug\net5.0\Codigos.pdb
+C:\Users\estagiosst14\source\repos\ByteBank\Codigos\obj\Debug\net5.0\Codigos.genruntimeconfig.cache

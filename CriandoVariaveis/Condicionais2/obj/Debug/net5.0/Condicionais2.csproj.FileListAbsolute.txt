@@ -1,0 +1,15 @@
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\Condicionais2\obj\Debug\net5.0\Condicionais2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\Condicionais2\obj\Debug\net5.0\Condicionais2.AssemblyInfoInputs.cache
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\Condicionais2\obj\Debug\net5.0\Condicionais2.AssemblyInfo.cs
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\Condicionais2\obj\Debug\net5.0\Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\Condicionais2\bin\Debug\net5.0\Condicionais2.exe
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\Condicionais2\bin\Debug\net5.0\Condicionais2.deps.json
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\Condicionais2\bin\Debug\net5.0\Condicionais2.runtimeconfig.json
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\Condicionais2\bin\Debug\net5.0\Condicionais2.runtimeconfig.dev.json
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\Condicionais2\bin\Debug\net5.0\Condicionais2.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\Condicionais2\bin\Debug\net5.0\ref\Condicionais2.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\Condicionais2\bin\Debug\net5.0\Condicionais2.pdb
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\Condicionais2\obj\Debug\net5.0\Condicionais2.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\Condicionais2\obj\Debug\net5.0\ref\Condicionais2.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\Condicionais2\obj\Debug\net5.0\Condicionais2.pdb
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\Condicionais2\obj\Debug\net5.0\Condicionais2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\bin\Debug\net5.0\CaractereseTexto.exe
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\bin\Debug\net5.0\CaractereseTexto.deps.json
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\bin\Debug\net5.0\CaractereseTexto.runtimeconfig.json
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\bin\Debug\net5.0\CaractereseTexto.runtimeconfig.dev.json
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\bin\Debug\net5.0\CaractereseTexto.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\bin\Debug\net5.0\ref\CaractereseTexto.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\bin\Debug\net5.0\CaractereseTexto.pdb
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\obj\Debug\net5.0\CaractereseTexto.csproj.AssemblyReference.cache
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\obj\Debug\net5.0\CaractereseTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\obj\Debug\net5.0\CaractereseTexto.AssemblyInfoInputs.cache
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\obj\Debug\net5.0\CaractereseTexto.AssemblyInfo.cs
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\obj\Debug\net5.0\CaractereseTexto.csproj.CoreCompileInputs.cache
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\obj\Debug\net5.0\CaractereseTexto.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\obj\Debug\net5.0\ref\CaractereseTexto.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\obj\Debug\net5.0\CaractereseTexto.pdb
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CaractereseTexto\obj\Debug\net5.0\CaractereseTexto.genruntimeconfig.cache

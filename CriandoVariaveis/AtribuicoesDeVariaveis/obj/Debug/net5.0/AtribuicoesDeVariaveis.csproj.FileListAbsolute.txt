@@ -1,0 +1,15 @@
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\AtribuicoesDeVariaveis\bin\Debug\net5.0\AtribuicoesDeVariaveis.exe
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\AtribuicoesDeVariaveis\bin\Debug\net5.0\AtribuicoesDeVariaveis.deps.json
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\AtribuicoesDeVariaveis\bin\Debug\net5.0\AtribuicoesDeVariaveis.runtimeconfig.json
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\AtribuicoesDeVariaveis\bin\Debug\net5.0\AtribuicoesDeVariaveis.runtimeconfig.dev.json
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\AtribuicoesDeVariaveis\bin\Debug\net5.0\AtribuicoesDeVariaveis.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\AtribuicoesDeVariaveis\bin\Debug\net5.0\ref\AtribuicoesDeVariaveis.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\AtribuicoesDeVariaveis\bin\Debug\net5.0\AtribuicoesDeVariaveis.pdb
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\AtribuicoesDeVariaveis\obj\Debug\net5.0\AtribuicoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\AtribuicoesDeVariaveis\obj\Debug\net5.0\AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\AtribuicoesDeVariaveis\obj\Debug\net5.0\AtribuicoesDeVariaveis.AssemblyInfo.cs
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\AtribuicoesDeVariaveis\obj\Debug\net5.0\AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\AtribuicoesDeVariaveis\obj\Debug\net5.0\AtribuicoesDeVariaveis.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\AtribuicoesDeVariaveis\obj\Debug\net5.0\ref\AtribuicoesDeVariaveis.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\AtribuicoesDeVariaveis\obj\Debug\net5.0\AtribuicoesDeVariaveis.pdb
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\AtribuicoesDeVariaveis\obj\Debug\net5.0\AtribuicoesDeVariaveis.genruntimeconfig.cache

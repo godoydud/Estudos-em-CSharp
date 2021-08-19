@@ -1,0 +1,15 @@
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CriandoVariaveisDouble\bin\Debug\net5.0\CriandoVariaveisDouble.exe
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CriandoVariaveisDouble\bin\Debug\net5.0\CriandoVariaveisDouble.deps.json
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CriandoVariaveisDouble\bin\Debug\net5.0\CriandoVariaveisDouble.runtimeconfig.json
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CriandoVariaveisDouble\bin\Debug\net5.0\CriandoVariaveisDouble.runtimeconfig.dev.json
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CriandoVariaveisDouble\bin\Debug\net5.0\CriandoVariaveisDouble.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CriandoVariaveisDouble\bin\Debug\net5.0\ref\CriandoVariaveisDouble.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CriandoVariaveisDouble\bin\Debug\net5.0\CriandoVariaveisDouble.pdb
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CriandoVariaveisDouble\obj\Debug\net5.0\CriandoVariaveisDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CriandoVariaveisDouble\obj\Debug\net5.0\CriandoVariaveisDouble.AssemblyInfoInputs.cache
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CriandoVariaveisDouble\obj\Debug\net5.0\CriandoVariaveisDouble.AssemblyInfo.cs
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CriandoVariaveisDouble\obj\Debug\net5.0\CriandoVariaveisDouble.csproj.CoreCompileInputs.cache
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CriandoVariaveisDouble\obj\Debug\net5.0\CriandoVariaveisDouble.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CriandoVariaveisDouble\obj\Debug\net5.0\ref\CriandoVariaveisDouble.dll
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CriandoVariaveisDouble\obj\Debug\net5.0\CriandoVariaveisDouble.pdb
+C:\Users\estagiosst14\source\repos\CriandoVariaveis\CriandoVariaveisDouble\obj\Debug\net5.0\CriandoVariaveisDouble.genruntimeconfig.cache
